@@ -1,0 +1,1 @@
+<?php echo "server MAM-3 active"; ?>
